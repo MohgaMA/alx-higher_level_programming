@@ -4,4 +4,4 @@ def multiple_returns(sentence):
         tupl = (len(sentence), None)
     else :
         tupl = (len(sentence), sentence[0])
-    return (tupl)
+    return tupl
