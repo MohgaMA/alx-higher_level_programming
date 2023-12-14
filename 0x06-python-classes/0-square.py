@@ -1,5 +1,5 @@
 #!/usr/bin/python3
+""" An empty class for squre. """
 class squre:
-    """ An empty class for squre. """
-    pass:
-        """ Pass present an empty class. """
+     """ Pass present an empty class. """
+    pass 
